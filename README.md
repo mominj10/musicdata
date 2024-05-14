@@ -1,3 +1,4 @@
 # musicdata
-Employed SQL to extract data from eleven distinct, interrelated tables within customer sales databases, utilizing JOIN and VIEW operations for comprehensive data retrieval.
-All the queries and tasks are in the query file.
+Utilized SQL for data extraction from eleven distinct, interrelated tables within customer sales databases
+Employed JOIN and VIEW operations for comprehensive data retrieval
+All queries and tasks documented in the query file for easy reference and reproducibility
